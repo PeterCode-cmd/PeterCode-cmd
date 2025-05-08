@@ -20,11 +20,17 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PyMySQL](https://img.shields.io/badge/-PyMySQL-4479A1?logo=mysql&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-03599C?logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-00A300?logo=microsoft-excel&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-00A4D3?logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFD700?logo=python&logoColor=white)
+![Vertica](https://img.shields.io/badge/-Vertica-006F89?logo=vertica&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
