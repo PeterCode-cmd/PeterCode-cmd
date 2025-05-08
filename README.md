@@ -16,6 +16,7 @@
 
 ### 🔧 Technologie i narzędzia
 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
@@ -32,6 +33,7 @@
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFD700?logo=python&logoColor=white)
 ![Vertica](https://img.shields.io/badge/-Vertica-006F89?logo=vertica&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-FF4F00?logo=requests&logoColor=white)
 
 ---
 
